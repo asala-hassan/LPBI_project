@@ -1,2 +1,2 @@
 # WordPress Database into JSON-LD 
-A SQL query for transforming WordPress database into JSON-LD format
+A SQL Query for transforming WordPress database into JSON-LD format
